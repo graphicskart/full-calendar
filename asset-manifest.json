@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-full-calendar/static/css/main.00e5c598.chunk.css",
-  "main.js": "/react-full-calendar/static/js/main.3a22fe09.chunk.js",
-  "main.js.map": "/react-full-calendar/static/js/main.3a22fe09.chunk.js.map",
-  "runtime~main.js": "/react-full-calendar/static/js/runtime~main.f9399fbf.js",
-  "runtime~main.js.map": "/react-full-calendar/static/js/runtime~main.f9399fbf.js.map",
-  "static/css/2.44cf8138.chunk.css": "/react-full-calendar/static/css/2.44cf8138.chunk.css",
-  "static/js/2.5da9f660.chunk.js": "/react-full-calendar/static/js/2.5da9f660.chunk.js",
-  "static/js/2.5da9f660.chunk.js.map": "/react-full-calendar/static/js/2.5da9f660.chunk.js.map",
-  "index.html": "/react-full-calendar/index.html",
-  "precache-manifest.d535be3a99dea422b842ff38ca73d0c1.js": "/react-full-calendar/precache-manifest.d535be3a99dea422b842ff38ca73d0c1.js",
-  "service-worker.js": "/react-full-calendar/service-worker.js",
-  "static/css/2.44cf8138.chunk.css.map": "/react-full-calendar/static/css/2.44cf8138.chunk.css.map",
-  "static/css/main.00e5c598.chunk.css.map": "/react-full-calendar/static/css/main.00e5c598.chunk.css.map"
+  "main.css": "/full-calendar/static/css/main.00e5c598.chunk.css",
+  "main.js": "/full-calendar/static/js/main.09832a94.chunk.js",
+  "main.js.map": "/full-calendar/static/js/main.09832a94.chunk.js.map",
+  "runtime~main.js": "/full-calendar/static/js/runtime~main.3df22b53.js",
+  "runtime~main.js.map": "/full-calendar/static/js/runtime~main.3df22b53.js.map",
+  "static/css/2.44cf8138.chunk.css": "/full-calendar/static/css/2.44cf8138.chunk.css",
+  "static/js/2.5da9f660.chunk.js": "/full-calendar/static/js/2.5da9f660.chunk.js",
+  "static/js/2.5da9f660.chunk.js.map": "/full-calendar/static/js/2.5da9f660.chunk.js.map",
+  "index.html": "/full-calendar/index.html",
+  "precache-manifest.569e45e63abceee7d3862c9aafd4ba58.js": "/full-calendar/precache-manifest.569e45e63abceee7d3862c9aafd4ba58.js",
+  "service-worker.js": "/full-calendar/service-worker.js",
+  "static/css/2.44cf8138.chunk.css.map": "/full-calendar/static/css/2.44cf8138.chunk.css.map",
+  "static/css/main.00e5c598.chunk.css.map": "/full-calendar/static/css/main.00e5c598.chunk.css.map"
 }
