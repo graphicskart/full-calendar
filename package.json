@@ -2,7 +2,7 @@
   "name": "react-full-calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://graphicskart.github.io/react-full-calendar",
+  "homepage": "https://graphicskart.github.io/full-calendar",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "fullcalendar": "^3.10.0",
